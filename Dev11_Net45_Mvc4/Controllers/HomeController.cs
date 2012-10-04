@@ -10,7 +10,7 @@ namespace Dev11_Net45_Mvc4.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+            ViewBag.Message = "Dev11 Mvc4 application targetting Fx4.5";
 
             return View();
         }
